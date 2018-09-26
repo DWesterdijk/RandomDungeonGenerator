@@ -9,7 +9,7 @@ Ik wou eerst een creepy dungeon styled iets maken, maar al snel werdt dat een "S
 Met kleine toevoegingen van particles om bubbles te simuleren.
 
 ## Features
-- [http://pcg.wikidot.com/pcg-algorithm:dungeon-generation](Procedural Dungeon Generation)
+- http://pcg.wikidot.com/pcg-algorithm:dungeon-generation
 
 ## Software Anaylse
 Unity was voor mijn idee de beste optie. Makkelijk te gebruiken, en makkelijk voor 3d.
@@ -30,6 +30,5 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [The Guide To Game Design](link)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+- http://pcg.wikidot.com/pcg-algorithm:dungeon-generation
+- https://nl.wikipedia.org/wiki/Procedurele_generatie
