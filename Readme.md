@@ -1,14 +1,15 @@
-# Naam Proefopdracht
+# Random Dungeon Generator
 *Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
-Hier komt een korte beschrijving van de proefopdracht. Wat heb je precies gedaan?
+In deze opdracht heb ik mijzelf bezig gehouden met het maken vaan een random generated dungeon.
+Het algoritme dat ik heb gebruikt is "procedural generation".
+
+Na dat ik alles werkend had, heb ik het mooier gemaakt, en een thema gegeven.
+Ik wou eerst een creepy dungeon styled iets maken, maar al snel werdt dat een "Sunken Temple"
+Met kleine toevoegingen van particles om bubbles te simuleren.
 
 ## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
-
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+- [http://pcg.wikidot.com/pcg-algorithm:dungeon-generation](Procedural Dungeon Generation)
 
 ## Software Anaylse
 Unity was voor mijn idee de beste optie. Makkelijk te gebruiken, en makkelijk voor 3d.
